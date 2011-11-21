@@ -10,10 +10,6 @@
 		<string>md</string>
 		<string>mc</string>
 	</array>
-	<key>foldingStartMarker</key>
-	<string>(&lt;(?i:(head|table|div|style|script|ul|ol|form|dl))\b.*?&gt;|\{)</string>
-	<key>foldingStopMarker</key>
-	<string>(&lt;/(?i:(head|table|div|style|script|ul|ol|form|dl))&gt;|\})</string>
 	<key>name</key>
 	<string>HTML (Mason)</string>
 	<key>patterns</key>
