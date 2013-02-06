@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;% $1 %&gt;</string>
 	<key>keyEquivalent</key>
-	<string>^x</string>
+	<string>^&gt;</string>
 	<key>name</key>
 	<string>&lt;% expression %&gt;</string>
 	<key>scope</key>
